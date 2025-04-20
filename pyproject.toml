@@ -6,5 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "google-adk>=0.1.0",
+    "ipykernel>=6.29.5",
     "litellm>=1.66.3",
+    "python-dotenv>=1.1.0",
 ]
